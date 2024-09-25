@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Montserrat.ttf",
+      "sha1": "ad9c434705a52d90ac5a770e591c2325fb48c2dc"
+    },
+    {
+      "path": "assets/fonts/OpenSansCondensedBold.ttf",
+      "sha1": "5ca9b1fed6fa826bcd74a90624fe0fa2d9b10db9"
+    },
+    {
+      "path": "assets/fonts/OpenSansSemiCondensedExtraBold.ttf",
+      "sha1": "0cb7f90387d655115f7e616225351ca28c4281e4"
+    },
+    {
+      "path": "assets/fonts/Quicksand.ttf",
+      "sha1": "17fb514f853cfeb7176a384fa29358e9c4b76c39"
+    }
+  ]
+}
